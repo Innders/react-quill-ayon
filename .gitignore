@@ -22,3 +22,14 @@
 # Test artifacts
 .cypress/screenshots
 .cypress/videos
+package-lock.json
+yarn.lock
+react-quill-ayon/package.json
+react-quill-ayon/dist/quill.bubble.css
+react-quill-ayon/dist/quill.core.css
+react-quill-ayon/dist/quill.snow.css
+react-quill-ayon/dist/react-quill.js
+react-quill-ayon/lib/index.d.ts
+react-quill-ayon/lib/index.js
+react-quill-ayon/lib/index.js.map
+yarn.lock
